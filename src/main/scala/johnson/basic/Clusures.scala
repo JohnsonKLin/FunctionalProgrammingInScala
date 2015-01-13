@@ -1,4 +1,4 @@
-package linsen
+package linsen.basic
 
 /**
  * Created by linzhaosen on 15/1/11.

@@ -1,4 +1,4 @@
-package linsen
+package linsen.basic
 
 /**
  * Created by linzhaosen on 15/1/11.
@@ -15,7 +15,5 @@ object Lambda {
 
     print("after filter function")
     print(list.filter(x => x > 5 && x < 7))
-
-
   }
 }

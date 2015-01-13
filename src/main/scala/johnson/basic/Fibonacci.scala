@@ -1,4 +1,4 @@
-package linsen
+package linsen.basic
 
 object Fibonacci {
   def apply(i: Int): Int = fibonacci(i)

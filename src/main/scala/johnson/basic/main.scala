@@ -1,4 +1,4 @@
-package linsen
+package linsen.basic
 
 object main {
   def main(args: Array[String]) {
