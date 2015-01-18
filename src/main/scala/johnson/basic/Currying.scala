@@ -21,6 +21,6 @@ object Currying {
     val conn: Connection = new Connection()
     withClose(conn)(conn => println("do something with connection"))
     //They are same
-    withClose(conn){conn => println("do something with connection")}
+    withClose(conn) { conn => println("do something with connection")}
   }
 }
